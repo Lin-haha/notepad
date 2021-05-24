@@ -1,3 +1,3 @@
 # notepad
 homework
-![hahaha](https://github.com/Lin-haha/notepad/blob/master/photo/phone.png)
+![展示图](https://github.com/Lin-haha/notepad/blob/master/photo/phone.png)
