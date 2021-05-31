@@ -1,5 +1,5 @@
 # 添加时间戳
-1.首先找到noteslist_item.xml布局文件，是笔记每个条目的布局
+1.首先找到noteslist_item.xml布局文件，是笔记每个条目的布局<br>
 原码：
 ```java
 <RelativeLayout android:layout_height="match_parent"
