@@ -1,7 +1,7 @@
 # 添加时间戳
 1.首先找到noteslist_item.xml布局文件，是笔记每个条目的布局
 原码：
-···java
+```java
 <RelativeLayout android:layout_height="match_parent"
     android:layout_width="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -15,7 +15,7 @@
         android:singleLine="true"
     />
 </RelativeLayout>
-···
+```
 
 
 
